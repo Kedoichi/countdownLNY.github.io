@@ -1,2 +1,3 @@
 quocchic
-chèm chẹp xịn xòooooo
+
+Practice js to create a countdown clock
